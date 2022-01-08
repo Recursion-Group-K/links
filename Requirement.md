@@ -2,6 +2,11 @@
 
 - アカウント登録？
 - 保存機能
+    - ギャラリー表示,一覧表示
+    - https://github.com/knadh/localStorageDB
+    - https://konvajs.org/docs/vue/Save-Load.html#page-title
+    - 調査中: https://github.com/Recursion-Group-K/sketch/issues/2
+ 
 - 描画機能
     - 色変更?
     - 太さ? 
