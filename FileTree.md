@@ -44,5 +44,4 @@ Vuex Storeを管理します。mutations actions などが肥大化する場合�
 例: getLocalTime(), 
 
 # utils/api
-API通信をしてモデルにラップするクラスや関数を管理します。
-```
+API通信をして受け取ったデータからモデルを作成するラッパー関数やラッパークラスを管理します。
