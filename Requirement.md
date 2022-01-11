@@ -5,6 +5,8 @@
         - name
         - email
         - password
+    - user?(ログイン済み)のみが使用できる機能
+        - ?
 - ゲスト機能
     - guest?(仮名)
         - ?
@@ -13,7 +15,6 @@
     - https://github.com/knadh/localStorageDB
     - https://konvajs.org/docs/vue/Save-Load.html#page-title
     - 調査中: https://github.com/Recursion-Group-K/sketch/issues/2
- 
 - 描画機能
     - 色変更?
     - 太さ: 開発中に上限下限変更予定
