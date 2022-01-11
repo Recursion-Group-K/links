@@ -1,6 +1,13 @@
 # Requirement Disscussion
 
-- アカウント登録？
+- アカウント登録
+    - user?(仮名)
+        - name
+        - email
+        - password
+- ゲスト機能
+    - guest?(仮名)
+        - ?
 - 保存機能
     - ギャラリー表示,一覧表示
     - https://github.com/knadh/localStorageDB
