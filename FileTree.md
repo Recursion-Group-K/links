@@ -10,10 +10,13 @@
     |- store/
     |- models/
     |- utils/
-      |- api/
+    |- api/
     |- App.vue
     |- main.js
 ```
+
+※ 実際のディレクトリのソートはちょっと違うはずです。
+
 # Assets
 
 css image svg など
@@ -43,5 +46,5 @@ Vuex Storeを管理します。mutations actions などが肥大化する場合�
 アプリケーション内で使う関数やクラスを管理します。
 例: getLocalTime(), 
 
-# utils/api
+# api
 API通信をして受け取ったデータからモデルを作成するラッパー関数やラッパークラスを管理します。
