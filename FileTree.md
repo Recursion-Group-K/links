@@ -8,6 +8,9 @@
     |- pages/
     |- router/
     |- store/
+    |- models/
+    |- utils/
+      |- api/
     |- App.vue
     |- main.js
 ```
@@ -30,3 +33,16 @@ css image svg など
 # Store
 
 Vuex Storeを管理します。mutations actions などが肥大化する場合はむモジュール分割しながら管理します。
+
+# Models
+
+モデルを管理するページです。 constructorはオブジェクトを引数として受け取ります。
+
+# utils
+
+アプリケーション内で使う関数やクラスを管理します。
+例: getLocalTime(), 
+
+# utils/api
+API通信をしてモデルにラップするクラスや関数を管理します。
+```
