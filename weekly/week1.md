@@ -4,6 +4,13 @@
 - discordで全員に質問する
 https://github.com/Recursion-Group-K/sketch/issues
 
+issueの名前はなんでもいいです。英語でも日本語でも。prefixぐらいはつけたほうがいいです
+
+## github内のリンク
+
+コメント内でのリンク #1
+プルリク時 => issueとのリンク
+issue時 => プルリクとのリンク, プロジェクトとのリンク
 
 ## 開発のデフォルトブランチは develop
 
