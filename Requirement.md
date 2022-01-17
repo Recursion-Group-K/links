@@ -32,7 +32,7 @@
 - ギャラリー表示,一覧表示
 - [npm: localStorageDB ](https://github.com/knadh/localStorageDB)
 - [konva: vue-save-load](https://konvajs.org/docs/vue/Save-Load.html#page-title)
-- 調査中: [issue](https://github.com/Recursion-Group-K/sketch/issues/2)
+- 調査完了: [issue](https://github.com/Recursion-Group-K/sketch/issues/2)
 
 ## 描画機能
 - 共通
