@@ -36,19 +36,19 @@
 
 ## 描画機能
 - 共通
-    - マウスのポインター
-    - konvaでの基本的な描画開発
-    - redo,undo
-    - 色変更
+    - マウスのポインター [#24](https://github.com/Recursion-Group-K/sketch/issues/24)
+    - konvaでの基本的な描画開発 [#25](https://github.com/Recursion-Group-K/sketch/issues/25)
+    - redo,undo [#26](https://github.com/Recursion-Group-K/sketch/issues/26)
+    - 色変更 [#27](https://github.com/Recursion-Group-K/sketch/issues/27)
         - [type="color"](https://developer.mozilla.org/ja/docs/Web/HTML/Element/input/color)
         - [styleの例: shelace](https://shoelace.style/components/color-picker)
         - [stack overflow](https://stackoverflow.com/questions/47971289/input-type-color-styling/47971607)
-    - 太さ変更(変更可能)
+    - 太さ変更(変更可能) [#28](https://github.com/Recursion-Group-K/sketch/issues/28)
         - min 1px
         - max 200px
 - Eatch a Sketch
-    - タッチorクリックで描画位置の変更
-    - Eatch a Sketchの描画方法開発(webでの操作法について相談予定)
+    - タッチorクリックで描画位置の変更 [#30](https://github.com/Recursion-Group-K/sketch/issues/30)
+    - Eatch a Sketchの描画方法開発 [#31](https://github.com/Recursion-Group-K/sketch/issues/31)
     - [スマホのアイデア](https://whimsical.com/KgZeJcbniUVaR7gxLLvW8i) (3,2,1の順で開発予定or要相談)
     - webのアイデア詳細(未定)
 - Normal?(未定)(開発期間によって変更)
